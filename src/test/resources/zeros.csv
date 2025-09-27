@@ -1,0 +1,122 @@
+0001,bir
+0000000000000000000000000001,bir
+000000000000000000000000000,sıfır
+10000,on min
+20000,iyirmi min
+30000,otuz min
+40000,qırx min
+50000,əlli min
+60000,altmış min
+70000,yetmiş min
+80000,səksən min
+90000,doxsan min
+10001,on min bir
+10002,on min iki
+10003,on min üç
+10004,on min dörd
+10005,on min beş
+10006,on min altı
+10007,on min yeddi
+10008,on min səkkiz
+10009,on min doqquz
+10010,on min on
+10020,on min iyirmi
+10030,on min otuz
+10040,on min qırx
+10050,on min əlli
+10060,on min altmış
+10070,on min yetmiş
+10080,on min səksən
+10090,on min doxsan
+10100,on min yüz
+10200,on min iki yüz
+10300,on min üç yüz
+10400,on min dörd yüz
+10500,on min beş yüz
+10600,on min altı yüz
+10700,on min yeddi yüz
+10800,on min səkkiz yüz
+10900,on min doqquz yüz
+11000,on bir min
+12000,on iki min
+13000,on üç min
+14000,on dörd min
+15000,on beş min
+16000,on altı min
+17000,on yeddi min
+18000,on səkkiz min
+19000,on doqquz min
+20001,iyirmi min bir
+20010,iyirmi min on
+20100,iyirmi min yüz
+21000,iyirmi bir min
+30002,otuz min iki
+30020,otuz min iyirmi
+30200,otuz min iki yüz
+32000,otuz iki min
+40003,qırx min üç
+40030,qırx min otuz
+40300,qırx min üç yüz
+43000,qırx üç min
+50004,əlli min dörd
+50040,əlli min qırx
+50400,əlli min dörd yüz
+54000,əlli dörd min
+100001,yüz min bir
+100010,yüz min on
+100100,yüz min yüz
+101000,yüz bir min
+110000,yüz on min
+200002,iki yüz min iki
+200020,iki yüz min iyirmi
+200200,iki yüz min iki yüz
+202000,iki yüz iki min
+220000,iki yüz iyirmi min
+300003,üç yüz min üç
+300030,üç yüz min otuz
+300300,üç yüz min üç yüz
+303000,üç yüz üç min
+330000,üç yüz otuz min
+1000001,bir milyon bir
+1000010,bir milyon on
+1000100,bir milyon yüz
+1001000,bir milyon bir min
+1010000,bir milyon on min
+1100000,bir milyon yüz min
+2000002,iki milyon iki
+2000020,iki milyon iyirmi
+2000200,iki milyon iki yüz
+2002000,iki milyon iki min
+2020000,iki milyon iyirmi min
+2200000,iki milyon iki yüz min
+10000001,on milyon bir
+10000010,on milyon on
+10000100,on milyon yüz
+10001000,on milyon bir min
+10010000,on milyon on min
+10100000,on milyon yüz min
+11000000,on bir milyon
+20000002,iyirmi milyon iki
+20000020,iyirmi milyon iyirmi
+20000200,iyirmi milyon iki yüz
+20002000,iyirmi milyon iki min
+20020000,iyirmi milyon iyirmi min
+20200000,iyirmi milyon iki yüz min
+22000000,iyirmi iki milyon
+100000001,yüz milyon bir
+100000010,yüz milyon on
+100000100,yüz milyon yüz
+100001000,yüz milyon bir min
+100010000,yüz milyon on min
+100100000,yüz milyon yüz min
+101000000,yüz bir milyon
+110000000,yüz on milyon
+1000000001,bir milyard bir
+1000000010,bir milyard on
+1000000100,bir milyard yüz
+1000001000,bir milyard bir min
+1000010000,bir milyard on min
+1000100000,bir milyard yüz min
+1001000000,bir milyard bir milyon
+1010000000,bir milyard on milyon
+1100000000,bir milyard yüz milyon

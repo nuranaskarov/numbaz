@@ -1,0 +1,900 @@
+100,yüz
+101,yüz bir
+102,yüz iki
+103,yüz üç
+104,yüz dörd
+105,yüz beş
+106,yüz altı
+107,yüz yeddi
+108,yüz səkkiz
+109,yüz doqquz
+110,yüz on
+111,yüz on bir
+112,yüz on iki
+113,yüz on üç
+114,yüz on dörd
+115,yüz on beş
+116,yüz on altı
+117,yüz on yeddi
+118,yüz on səkkiz
+119,yüz on doqquz
+120,yüz iyirmi
+121,yüz iyirmi bir
+122,yüz iyirmi iki
+123,yüz iyirmi üç
+124,yüz iyirmi dörd
+125,yüz iyirmi beş
+126,yüz iyirmi altı
+127,yüz iyirmi yeddi
+128,yüz iyirmi səkkiz
+129,yüz iyirmi doqquz
+130,yüz otuz
+131,yüz otuz bir
+132,yüz otuz iki
+133,yüz otuz üç
+134,yüz otuz dörd
+135,yüz otuz beş
+136,yüz otuz altı
+137,yüz otuz yeddi
+138,yüz otuz səkkiz
+139,yüz otuz doqquz
+140,yüz qırx
+141,yüz qırx bir
+142,yüz qırx iki
+143,yüz qırx üç
+144,yüz qırx dörd
+145,yüz qırx beş
+146,yüz qırx altı
+147,yüz qırx yeddi
+148,yüz qırx səkkiz
+149,yüz qırx doqquz
+150,yüz əlli
+151,yüz əlli bir
+152,yüz əlli iki
+153,yüz əlli üç
+154,yüz əlli dörd
+155,yüz əlli beş
+156,yüz əlli altı
+157,yüz əlli yeddi
+158,yüz əlli səkkiz
+159,yüz əlli doqquz
+160,yüz altmış
+161,yüz altmış bir
+162,yüz altmış iki
+163,yüz altmış üç
+164,yüz altmış dörd
+165,yüz altmış beş
+166,yüz altmış altı
+167,yüz altmış yeddi
+168,yüz altmış səkkiz
+169,yüz altmış doqquz
+170,yüz yetmiş
+171,yüz yetmiş bir
+172,yüz yetmiş iki
+173,yüz yetmiş üç
+174,yüz yetmiş dörd
+175,yüz yetmiş beş
+176,yüz yetmiş altı
+177,yüz yetmiş yeddi
+178,yüz yetmiş səkkiz
+179,yüz yetmiş doqquz
+180,yüz səksən
+181,yüz səksən bir
+182,yüz səksən iki
+183,yüz səksən üç
+184,yüz səksən dörd
+185,yüz səksən beş
+186,yüz səksən altı
+187,yüz səksən yeddi
+188,yüz səksən səkkiz
+189,yüz səksən doqquz
+190,yüz doxsan
+191,yüz doxsan bir
+192,yüz doxsan iki
+193,yüz doxsan üç
+194,yüz doxsan dörd
+195,yüz doxsan beş
+196,yüz doxsan altı
+197,yüz doxsan yeddi
+198,yüz doxsan səkkiz
+199,yüz doxsan doqquz
+200,iki yüz
+201,iki yüz bir
+202,iki yüz iki
+203,iki yüz üç
+204,iki yüz dörd
+205,iki yüz beş
+206,iki yüz altı
+207,iki yüz yeddi
+208,iki yüz səkkiz
+209,iki yüz doqquz
+210,iki yüz on
+211,iki yüz on bir
+212,iki yüz on iki
+213,iki yüz on üç
+214,iki yüz on dörd
+215,iki yüz on beş
+216,iki yüz on altı
+217,iki yüz on yeddi
+218,iki yüz on səkkiz
+219,iki yüz on doqquz
+220,iki yüz iyirmi
+221,iki yüz iyirmi bir
+222,iki yüz iyirmi iki
+223,iki yüz iyirmi üç
+224,iki yüz iyirmi dörd
+225,iki yüz iyirmi beş
+226,iki yüz iyirmi altı
+227,iki yüz iyirmi yeddi
+228,iki yüz iyirmi səkkiz
+229,iki yüz iyirmi doqquz
+230,iki yüz otuz
+231,iki yüz otuz bir
+232,iki yüz otuz iki
+233,iki yüz otuz üç
+234,iki yüz otuz dörd
+235,iki yüz otuz beş
+236,iki yüz otuz altı
+237,iki yüz otuz yeddi
+238,iki yüz otuz səkkiz
+239,iki yüz otuz doqquz
+240,iki yüz qırx
+241,iki yüz qırx bir
+242,iki yüz qırx iki
+243,iki yüz qırx üç
+244,iki yüz qırx dörd
+245,iki yüz qırx beş
+246,iki yüz qırx altı
+247,iki yüz qırx yeddi
+248,iki yüz qırx səkkiz
+249,iki yüz qırx doqquz
+250,iki yüz əlli
+251,iki yüz əlli bir
+252,iki yüz əlli iki
+253,iki yüz əlli üç
+254,iki yüz əlli dörd
+255,iki yüz əlli beş
+256,iki yüz əlli altı
+257,iki yüz əlli yeddi
+258,iki yüz əlli səkkiz
+259,iki yüz əlli doqquz
+260,iki yüz altmış
+261,iki yüz altmış bir
+262,iki yüz altmış iki
+263,iki yüz altmış üç
+264,iki yüz altmış dörd
+265,iki yüz altmış beş
+266,iki yüz altmış altı
+267,iki yüz altmış yeddi
+268,iki yüz altmış səkkiz
+269,iki yüz altmış doqquz
+270,iki yüz yetmiş
+271,iki yüz yetmiş bir
+272,iki yüz yetmiş iki
+273,iki yüz yetmiş üç
+274,iki yüz yetmiş dörd
+275,iki yüz yetmiş beş
+276,iki yüz yetmiş altı
+277,iki yüz yetmiş yeddi
+278,iki yüz yetmiş səkkiz
+279,iki yüz yetmiş doqquz
+280,iki yüz səksən
+281,iki yüz səksən bir
+282,iki yüz səksən iki
+283,iki yüz səksən üç
+284,iki yüz səksən dörd
+285,iki yüz səksən beş
+286,iki yüz səksən altı
+287,iki yüz səksən yeddi
+288,iki yüz səksən səkkiz
+289,iki yüz səksən doqquz
+290,iki yüz doxsan
+291,iki yüz doxsan bir
+292,iki yüz doxsan iki
+293,iki yüz doxsan üç
+294,iki yüz doxsan dörd
+295,iki yüz doxsan beş
+296,iki yüz doxsan altı
+297,iki yüz doxsan yeddi
+298,iki yüz doxsan səkkiz
+299,iki yüz doxsan doqquz
+300,üç yüz
+301,üç yüz bir
+302,üç yüz iki
+303,üç yüz üç
+304,üç yüz dörd
+305,üç yüz beş
+306,üç yüz altı
+307,üç yüz yeddi
+308,üç yüz səkkiz
+309,üç yüz doqquz
+310,üç yüz on
+311,üç yüz on bir
+312,üç yüz on iki
+313,üç yüz on üç
+314,üç yüz on dörd
+315,üç yüz on beş
+316,üç yüz on altı
+317,üç yüz on yeddi
+318,üç yüz on səkkiz
+319,üç yüz on doqquz
+320,üç yüz iyirmi
+321,üç yüz iyirmi bir
+322,üç yüz iyirmi iki
+323,üç yüz iyirmi üç
+324,üç yüz iyirmi dörd
+325,üç yüz iyirmi beş
+326,üç yüz iyirmi altı
+327,üç yüz iyirmi yeddi
+328,üç yüz iyirmi səkkiz
+329,üç yüz iyirmi doqquz
+330,üç yüz otuz
+331,üç yüz otuz bir
+332,üç yüz otuz iki
+333,üç yüz otuz üç
+334,üç yüz otuz dörd
+335,üç yüz otuz beş
+336,üç yüz otuz altı
+337,üç yüz otuz yeddi
+338,üç yüz otuz səkkiz
+339,üç yüz otuz doqquz
+340,üç yüz qırx
+341,üç yüz qırx bir
+342,üç yüz qırx iki
+343,üç yüz qırx üç
+344,üç yüz qırx dörd
+345,üç yüz qırx beş
+346,üç yüz qırx altı
+347,üç yüz qırx yeddi
+348,üç yüz qırx səkkiz
+349,üç yüz qırx doqquz
+350,üç yüz əlli
+351,üç yüz əlli bir
+352,üç yüz əlli iki
+353,üç yüz əlli üç
+354,üç yüz əlli dörd
+355,üç yüz əlli beş
+356,üç yüz əlli altı
+357,üç yüz əlli yeddi
+358,üç yüz əlli səkkiz
+359,üç yüz əlli doqquz
+360,üç yüz altmış
+361,üç yüz altmış bir
+362,üç yüz altmış iki
+363,üç yüz altmış üç
+364,üç yüz altmış dörd
+365,üç yüz altmış beş
+366,üç yüz altmış altı
+367,üç yüz altmış yeddi
+368,üç yüz altmış səkkiz
+369,üç yüz altmış doqquz
+370,üç yüz yetmiş
+371,üç yüz yetmiş bir
+372,üç yüz yetmiş iki
+373,üç yüz yetmiş üç
+374,üç yüz yetmiş dörd
+375,üç yüz yetmiş beş
+376,üç yüz yetmiş altı
+377,üç yüz yetmiş yeddi
+378,üç yüz yetmiş səkkiz
+379,üç yüz yetmiş doqquz
+380,üç yüz səksən
+381,üç yüz səksən bir
+382,üç yüz səksən iki
+383,üç yüz səksən üç
+384,üç yüz səksən dörd
+385,üç yüz səksən beş
+386,üç yüz səksən altı
+387,üç yüz səksən yeddi
+388,üç yüz səksən səkkiz
+389,üç yüz səksən doqquz
+390,üç yüz doxsan
+391,üç yüz doxsan bir
+392,üç yüz doxsan iki
+393,üç yüz doxsan üç
+394,üç yüz doxsan dörd
+395,üç yüz doxsan beş
+396,üç yüz doxsan altı
+397,üç yüz doxsan yeddi
+398,üç yüz doxsan səkkiz
+399,üç yüz doxsan doqquz
+400,dörd yüz
+401,dörd yüz bir
+402,dörd yüz iki
+403,dörd yüz üç
+404,dörd yüz dörd
+405,dörd yüz beş
+406,dörd yüz altı
+407,dörd yüz yeddi
+408,dörd yüz səkkiz
+409,dörd yüz doqquz
+410,dörd yüz on
+411,dörd yüz on bir
+412,dörd yüz on iki
+413,dörd yüz on üç
+414,dörd yüz on dörd
+415,dörd yüz on beş
+416,dörd yüz on altı
+417,dörd yüz on yeddi
+418,dörd yüz on səkkiz
+419,dörd yüz on doqquz
+420,dörd yüz iyirmi
+421,dörd yüz iyirmi bir
+422,dörd yüz iyirmi iki
+423,dörd yüz iyirmi üç
+424,dörd yüz iyirmi dörd
+425,dörd yüz iyirmi beş
+426,dörd yüz iyirmi altı
+427,dörd yüz iyirmi yeddi
+428,dörd yüz iyirmi səkkiz
+429,dörd yüz iyirmi doqquz
+430,dörd yüz otuz
+431,dörd yüz otuz bir
+432,dörd yüz otuz iki
+433,dörd yüz otuz üç
+434,dörd yüz otuz dörd
+435,dörd yüz otuz beş
+436,dörd yüz otuz altı
+437,dörd yüz otuz yeddi
+438,dörd yüz otuz səkkiz
+439,dörd yüz otuz doqquz
+440,dörd yüz qırx
+441,dörd yüz qırx bir
+442,dörd yüz qırx iki
+443,dörd yüz qırx üç
+444,dörd yüz qırx dörd
+445,dörd yüz qırx beş
+446,dörd yüz qırx altı
+447,dörd yüz qırx yeddi
+448,dörd yüz qırx səkkiz
+449,dörd yüz qırx doqquz
+450,dörd yüz əlli
+451,dörd yüz əlli bir
+452,dörd yüz əlli iki
+453,dörd yüz əlli üç
+454,dörd yüz əlli dörd
+455,dörd yüz əlli beş
+456,dörd yüz əlli altı
+457,dörd yüz əlli yeddi
+458,dörd yüz əlli səkkiz
+459,dörd yüz əlli doqquz
+460,dörd yüz altmış
+461,dörd yüz altmış bir
+462,dörd yüz altmış iki
+463,dörd yüz altmış üç
+464,dörd yüz altmış dörd
+465,dörd yüz altmış beş
+466,dörd yüz altmış altı
+467,dörd yüz altmış yeddi
+468,dörd yüz altmış səkkiz
+469,dörd yüz altmış doqquz
+470,dörd yüz yetmiş
+471,dörd yüz yetmiş bir
+472,dörd yüz yetmiş iki
+473,dörd yüz yetmiş üç
+474,dörd yüz yetmiş dörd
+475,dörd yüz yetmiş beş
+476,dörd yüz yetmiş altı
+477,dörd yüz yetmiş yeddi
+478,dörd yüz yetmiş səkkiz
+479,dörd yüz yetmiş doqquz
+480,dörd yüz səksən
+481,dörd yüz səksən bir
+482,dörd yüz səksən iki
+483,dörd yüz səksən üç
+484,dörd yüz səksən dörd
+485,dörd yüz səksən beş
+486,dörd yüz səksən altı
+487,dörd yüz səksən yeddi
+488,dörd yüz səksən səkkiz
+489,dörd yüz səksən doqquz
+490,dörd yüz doxsan
+491,dörd yüz doxsan bir
+492,dörd yüz doxsan iki
+493,dörd yüz doxsan üç
+494,dörd yüz doxsan dörd
+495,dörd yüz doxsan beş
+496,dörd yüz doxsan altı
+497,dörd yüz doxsan yeddi
+498,dörd yüz doxsan səkkiz
+499,dörd yüz doxsan doqquz
+500,beş yüz
+501,beş yüz bir
+502,beş yüz iki
+503,beş yüz üç
+504,beş yüz dörd
+505,beş yüz beş
+506,beş yüz altı
+507,beş yüz yeddi
+508,beş yüz səkkiz
+509,beş yüz doqquz
+510,beş yüz on
+511,beş yüz on bir
+512,beş yüz on iki
+513,beş yüz on üç
+514,beş yüz on dörd
+515,beş yüz on beş
+516,beş yüz on altı
+517,beş yüz on yeddi
+518,beş yüz on səkkiz
+519,beş yüz on doqquz
+520,beş yüz iyirmi
+521,beş yüz iyirmi bir
+522,beş yüz iyirmi iki
+523,beş yüz iyirmi üç
+524,beş yüz iyirmi dörd
+525,beş yüz iyirmi beş
+526,beş yüz iyirmi altı
+527,beş yüz iyirmi yeddi
+528,beş yüz iyirmi səkkiz
+529,beş yüz iyirmi doqquz
+530,beş yüz otuz
+531,beş yüz otuz bir
+532,beş yüz otuz iki
+533,beş yüz otuz üç
+534,beş yüz otuz dörd
+535,beş yüz otuz beş
+536,beş yüz otuz altı
+537,beş yüz otuz yeddi
+538,beş yüz otuz səkkiz
+539,beş yüz otuz doqquz
+540,beş yüz qırx
+541,beş yüz qırx bir
+542,beş yüz qırx iki
+543,beş yüz qırx üç
+544,beş yüz qırx dörd
+545,beş yüz qırx beş
+546,beş yüz qırx altı
+547,beş yüz qırx yeddi
+548,beş yüz qırx səkkiz
+549,beş yüz qırx doqquz
+550,beş yüz əlli
+551,beş yüz əlli bir
+552,beş yüz əlli iki
+553,beş yüz əlli üç
+554,beş yüz əlli dörd
+555,beş yüz əlli beş
+556,beş yüz əlli altı
+557,beş yüz əlli yeddi
+558,beş yüz əlli səkkiz
+559,beş yüz əlli doqquz
+560,beş yüz altmış
+561,beş yüz altmış bir
+562,beş yüz altmış iki
+563,beş yüz altmış üç
+564,beş yüz altmış dörd
+565,beş yüz altmış beş
+566,beş yüz altmış altı
+567,beş yüz altmış yeddi
+568,beş yüz altmış səkkiz
+569,beş yüz altmış doqquz
+570,beş yüz yetmiş
+571,beş yüz yetmiş bir
+572,beş yüz yetmiş iki
+573,beş yüz yetmiş üç
+574,beş yüz yetmiş dörd
+575,beş yüz yetmiş beş
+576,beş yüz yetmiş altı
+577,beş yüz yetmiş yeddi
+578,beş yüz yetmiş səkkiz
+579,beş yüz yetmiş doqquz
+580,beş yüz səksən
+581,beş yüz səksən bir
+582,beş yüz səksən iki
+583,beş yüz səksən üç
+584,beş yüz səksən dörd
+585,beş yüz səksən beş
+586,beş yüz səksən altı
+587,beş yüz səksən yeddi
+588,beş yüz səksən səkkiz
+589,beş yüz səksən doqquz
+590,beş yüz doxsan
+591,beş yüz doxsan bir
+592,beş yüz doxsan iki
+593,beş yüz doxsan üç
+594,beş yüz doxsan dörd
+595,beş yüz doxsan beş
+596,beş yüz doxsan altı
+597,beş yüz doxsan yeddi
+598,beş yüz doxsan səkkiz
+599,beş yüz doxsan doqquz
+600,altı yüz
+601,altı yüz bir
+602,altı yüz iki
+603,altı yüz üç
+604,altı yüz dörd
+605,altı yüz beş
+606,altı yüz altı
+607,altı yüz yeddi
+608,altı yüz səkkiz
+609,altı yüz doqquz
+610,altı yüz on
+611,altı yüz on bir
+612,altı yüz on iki
+613,altı yüz on üç
+614,altı yüz on dörd
+615,altı yüz on beş
+616,altı yüz on altı
+617,altı yüz on yeddi
+618,altı yüz on səkkiz
+619,altı yüz on doqquz
+620,altı yüz iyirmi
+621,altı yüz iyirmi bir
+622,altı yüz iyirmi iki
+623,altı yüz iyirmi üç
+624,altı yüz iyirmi dörd
+625,altı yüz iyirmi beş
+626,altı yüz iyirmi altı
+627,altı yüz iyirmi yeddi
+628,altı yüz iyirmi səkkiz
+629,altı yüz iyirmi doqquz
+630,altı yüz otuz
+631,altı yüz otuz bir
+632,altı yüz otuz iki
+633,altı yüz otuz üç
+634,altı yüz otuz dörd
+635,altı yüz otuz beş
+636,altı yüz otuz altı
+637,altı yüz otuz yeddi
+638,altı yüz otuz səkkiz
+639,altı yüz otuz doqquz
+640,altı yüz qırx
+641,altı yüz qırx bir
+642,altı yüz qırx iki
+643,altı yüz qırx üç
+644,altı yüz qırx dörd
+645,altı yüz qırx beş
+646,altı yüz qırx altı
+647,altı yüz qırx yeddi
+648,altı yüz qırx səkkiz
+649,altı yüz qırx doqquz
+650,altı yüz əlli
+651,altı yüz əlli bir
+652,altı yüz əlli iki
+653,altı yüz əlli üç
+654,altı yüz əlli dörd
+655,altı yüz əlli beş
+656,altı yüz əlli altı
+657,altı yüz əlli yeddi
+658,altı yüz əlli səkkiz
+659,altı yüz əlli doqquz
+660,altı yüz altmış
+661,altı yüz altmış bir
+662,altı yüz altmış iki
+663,altı yüz altmış üç
+664,altı yüz altmış dörd
+665,altı yüz altmış beş
+666,altı yüz altmış altı
+667,altı yüz altmış yeddi
+668,altı yüz altmış səkkiz
+669,altı yüz altmış doqquz
+670,altı yüz yetmiş
+671,altı yüz yetmiş bir
+672,altı yüz yetmiş iki
+673,altı yüz yetmiş üç
+674,altı yüz yetmiş dörd
+675,altı yüz yetmiş beş
+676,altı yüz yetmiş altı
+677,altı yüz yetmiş yeddi
+678,altı yüz yetmiş səkkiz
+679,altı yüz yetmiş doqquz
+680,altı yüz səksən
+681,altı yüz səksən bir
+682,altı yüz səksən iki
+683,altı yüz səksən üç
+684,altı yüz səksən dörd
+685,altı yüz səksən beş
+686,altı yüz səksən altı
+687,altı yüz səksən yeddi
+688,altı yüz səksən səkkiz
+689,altı yüz səksən doqquz
+690,altı yüz doxsan
+691,altı yüz doxsan bir
+692,altı yüz doxsan iki
+693,altı yüz doxsan üç
+694,altı yüz doxsan dörd
+695,altı yüz doxsan beş
+696,altı yüz doxsan altı
+697,altı yüz doxsan yeddi
+698,altı yüz doxsan səkkiz
+699,altı yüz doxsan doqquz
+700,yeddi yüz
+701,yeddi yüz bir
+702,yeddi yüz iki
+703,yeddi yüz üç
+704,yeddi yüz dörd
+705,yeddi yüz beş
+706,yeddi yüz altı
+707,yeddi yüz yeddi
+708,yeddi yüz səkkiz
+709,yeddi yüz doqquz
+710,yeddi yüz on
+711,yeddi yüz on bir
+712,yeddi yüz on iki
+713,yeddi yüz on üç
+714,yeddi yüz on dörd
+715,yeddi yüz on beş
+716,yeddi yüz on altı
+717,yeddi yüz on yeddi
+718,yeddi yüz on səkkiz
+719,yeddi yüz on doqquz
+720,yeddi yüz iyirmi
+721,yeddi yüz iyirmi bir
+722,yeddi yüz iyirmi iki
+723,yeddi yüz iyirmi üç
+724,yeddi yüz iyirmi dörd
+725,yeddi yüz iyirmi beş
+726,yeddi yüz iyirmi altı
+727,yeddi yüz iyirmi yeddi
+728,yeddi yüz iyirmi səkkiz
+729,yeddi yüz iyirmi doqquz
+730,yeddi yüz otuz
+731,yeddi yüz otuz bir
+732,yeddi yüz otuz iki
+733,yeddi yüz otuz üç
+734,yeddi yüz otuz dörd
+735,yeddi yüz otuz beş
+736,yeddi yüz otuz altı
+737,yeddi yüz otuz yeddi
+738,yeddi yüz otuz səkkiz
+739,yeddi yüz otuz doqquz
+740,yeddi yüz qırx
+741,yeddi yüz qırx bir
+742,yeddi yüz qırx iki
+743,yeddi yüz qırx üç
+744,yeddi yüz qırx dörd
+745,yeddi yüz qırx beş
+746,yeddi yüz qırx altı
+747,yeddi yüz qırx yeddi
+748,yeddi yüz qırx səkkiz
+749,yeddi yüz qırx doqquz
+750,yeddi yüz əlli
+751,yeddi yüz əlli bir
+752,yeddi yüz əlli iki
+753,yeddi yüz əlli üç
+754,yeddi yüz əlli dörd
+755,yeddi yüz əlli beş
+756,yeddi yüz əlli altı
+757,yeddi yüz əlli yeddi
+758,yeddi yüz əlli səkkiz
+759,yeddi yüz əlli doqquz
+760,yeddi yüz altmış
+761,yeddi yüz altmış bir
+762,yeddi yüz altmış iki
+763,yeddi yüz altmış üç
+764,yeddi yüz altmış dörd
+765,yeddi yüz altmış beş
+766,yeddi yüz altmış altı
+767,yeddi yüz altmış yeddi
+768,yeddi yüz altmış səkkiz
+769,yeddi yüz altmış doqquz
+770,yeddi yüz yetmiş
+771,yeddi yüz yetmiş bir
+772,yeddi yüz yetmiş iki
+773,yeddi yüz yetmiş üç
+774,yeddi yüz yetmiş dörd
+775,yeddi yüz yetmiş beş
+776,yeddi yüz yetmiş altı
+777,yeddi yüz yetmiş yeddi
+778,yeddi yüz yetmiş səkkiz
+779,yeddi yüz yetmiş doqquz
+780,yeddi yüz səksən
+781,yeddi yüz səksən bir
+782,yeddi yüz səksən iki
+783,yeddi yüz səksən üç
+784,yeddi yüz səksən dörd
+785,yeddi yüz səksən beş
+786,yeddi yüz səksən altı
+787,yeddi yüz səksən yeddi
+788,yeddi yüz səksən səkkiz
+789,yeddi yüz səksən doqquz
+790,yeddi yüz doxsan
+791,yeddi yüz doxsan bir
+792,yeddi yüz doxsan iki
+793,yeddi yüz doxsan üç
+794,yeddi yüz doxsan dörd
+795,yeddi yüz doxsan beş
+796,yeddi yüz doxsan altı
+797,yeddi yüz doxsan yeddi
+798,yeddi yüz doxsan səkkiz
+799,yeddi yüz doxsan doqquz
+800,səkkiz yüz
+801,səkkiz yüz bir
+802,səkkiz yüz iki
+803,səkkiz yüz üç
+804,səkkiz yüz dörd
+805,səkkiz yüz beş
+806,səkkiz yüz altı
+807,səkkiz yüz yeddi
+808,səkkiz yüz səkkiz
+809,səkkiz yüz doqquz
+810,səkkiz yüz on
+811,səkkiz yüz on bir
+812,səkkiz yüz on iki
+813,səkkiz yüz on üç
+814,səkkiz yüz on dörd
+815,səkkiz yüz on beş
+816,səkkiz yüz on altı
+817,səkkiz yüz on yeddi
+818,səkkiz yüz on səkkiz
+819,səkkiz yüz on doqquz
+820,səkkiz yüz iyirmi
+821,səkkiz yüz iyirmi bir
+822,səkkiz yüz iyirmi iki
+823,səkkiz yüz iyirmi üç
+824,səkkiz yüz iyirmi dörd
+825,səkkiz yüz iyirmi beş
+826,səkkiz yüz iyirmi altı
+827,səkkiz yüz iyirmi yeddi
+828,səkkiz yüz iyirmi səkkiz
+829,səkkiz yüz iyirmi doqquz
+830,səkkiz yüz otuz
+831,səkkiz yüz otuz bir
+832,səkkiz yüz otuz iki
+833,səkkiz yüz otuz üç
+834,səkkiz yüz otuz dörd
+835,səkkiz yüz otuz beş
+836,səkkiz yüz otuz altı
+837,səkkiz yüz otuz yeddi
+838,səkkiz yüz otuz səkkiz
+839,səkkiz yüz otuz doqquz
+840,səkkiz yüz qırx
+841,səkkiz yüz qırx bir
+842,səkkiz yüz qırx iki
+843,səkkiz yüz qırx üç
+844,səkkiz yüz qırx dörd
+845,səkkiz yüz qırx beş
+846,səkkiz yüz qırx altı
+847,səkkiz yüz qırx yeddi
+848,səkkiz yüz qırx səkkiz
+849,səkkiz yüz qırx doqquz
+850,səkkiz yüz əlli
+851,səkkiz yüz əlli bir
+852,səkkiz yüz əlli iki
+853,səkkiz yüz əlli üç
+854,səkkiz yüz əlli dörd
+855,səkkiz yüz əlli beş
+856,səkkiz yüz əlli altı
+857,səkkiz yüz əlli yeddi
+858,səkkiz yüz əlli səkkiz
+859,səkkiz yüz əlli doqquz
+860,səkkiz yüz altmış
+861,səkkiz yüz altmış bir
+862,səkkiz yüz altmış iki
+863,səkkiz yüz altmış üç
+864,səkkiz yüz altmış dörd
+865,səkkiz yüz altmış beş
+866,səkkiz yüz altmış altı
+867,səkkiz yüz altmış yeddi
+868,səkkiz yüz altmış səkkiz
+869,səkkiz yüz altmış doqquz
+870,səkkiz yüz yetmiş
+871,səkkiz yüz yetmiş bir
+872,səkkiz yüz yetmiş iki
+873,səkkiz yüz yetmiş üç
+874,səkkiz yüz yetmiş dörd
+875,səkkiz yüz yetmiş beş
+876,səkkiz yüz yetmiş altı
+877,səkkiz yüz yetmiş yeddi
+878,səkkiz yüz yetmiş səkkiz
+879,səkkiz yüz yetmiş doqquz
+880,səkkiz yüz səksən
+881,səkkiz yüz səksən bir
+882,səkkiz yüz səksən iki
+883,səkkiz yüz səksən üç
+884,səkkiz yüz səksən dörd
+885,səkkiz yüz səksən beş
+886,səkkiz yüz səksən altı
+887,səkkiz yüz səksən yeddi
+888,səkkiz yüz səksən səkkiz
+889,səkkiz yüz səksən doqquz
+890,səkkiz yüz doxsan
+891,səkkiz yüz doxsan bir
+892,səkkiz yüz doxsan iki
+893,səkkiz yüz doxsan üç
+894,səkkiz yüz doxsan dörd
+895,səkkiz yüz doxsan beş
+896,səkkiz yüz doxsan altı
+897,səkkiz yüz doxsan yeddi
+898,səkkiz yüz doxsan səkkiz
+899,səkkiz yüz doxsan doqquz
+900,doqquz yüz
+901,doqquz yüz bir
+902,doqquz yüz iki
+903,doqquz yüz üç
+904,doqquz yüz dörd
+905,doqquz yüz beş
+906,doqquz yüz altı
+907,doqquz yüz yeddi
+908,doqquz yüz səkkiz
+909,doqquz yüz doqquz
+910,doqquz yüz on
+911,doqquz yüz on bir
+912,doqquz yüz on iki
+913,doqquz yüz on üç
+914,doqquz yüz on dörd
+915,doqquz yüz on beş
+916,doqquz yüz on altı
+917,doqquz yüz on yeddi
+918,doqquz yüz on səkkiz
+919,doqquz yüz on doqquz
+920,doqquz yüz iyirmi
+921,doqquz yüz iyirmi bir
+922,doqquz yüz iyirmi iki
+923,doqquz yüz iyirmi üç
+924,doqquz yüz iyirmi dörd
+925,doqquz yüz iyirmi beş
+926,doqquz yüz iyirmi altı
+927,doqquz yüz iyirmi yeddi
+928,doqquz yüz iyirmi səkkiz
+929,doqquz yüz iyirmi doqquz
+930,doqquz yüz otuz
+931,doqquz yüz otuz bir
+932,doqquz yüz otuz iki
+933,doqquz yüz otuz üç
+934,doqquz yüz otuz dörd
+935,doqquz yüz otuz beş
+936,doqquz yüz otuz altı
+937,doqquz yüz otuz yeddi
+938,doqquz yüz otuz səkkiz
+939,doqquz yüz otuz doqquz
+940,doqquz yüz qırx
+941,doqquz yüz qırx bir
+942,doqquz yüz qırx iki
+943,doqquz yüz qırx üç
+944,doqquz yüz qırx dörd
+945,doqquz yüz qırx beş
+946,doqquz yüz qırx altı
+947,doqquz yüz qırx yeddi
+948,doqquz yüz qırx səkkiz
+949,doqquz yüz qırx doqquz
+950,doqquz yüz əlli
+951,doqquz yüz əlli bir
+952,doqquz yüz əlli iki
+953,doqquz yüz əlli üç
+954,doqquz yüz əlli dörd
+955,doqquz yüz əlli beş
+956,doqquz yüz əlli altı
+957,doqquz yüz əlli yeddi
+958,doqquz yüz əlli səkkiz
+959,doqquz yüz əlli doqquz
+960,doqquz yüz altmış
+961,doqquz yüz altmış bir
+962,doqquz yüz altmış iki
+963,doqquz yüz altmış üç
+964,doqquz yüz altmış dörd
+965,doqquz yüz altmış beş
+966,doqquz yüz altmış altı
+967,doqquz yüz altmış yeddi
+968,doqquz yüz altmış səkkiz
+969,doqquz yüz altmış doqquz
+970,doqquz yüz yetmiş
+971,doqquz yüz yetmiş bir
+972,doqquz yüz yetmiş iki
+973,doqquz yüz yetmiş üç
+974,doqquz yüz yetmiş dörd
+975,doqquz yüz yetmiş beş
+976,doqquz yüz yetmiş altı
+977,doqquz yüz yetmiş yeddi
+978,doqquz yüz yetmiş səkkiz
+979,doqquz yüz yetmiş doqquz
+980,doqquz yüz səksən
+981,doqquz yüz səksən bir
+982,doqquz yüz səksən iki
+983,doqquz yüz səksən üç
+984,doqquz yüz səksən dörd
+985,doqquz yüz səksən beş
+986,doqquz yüz səksən altı
+987,doqquz yüz səksən yeddi
+988,doqquz yüz səksən səkkiz
+989,doqquz yüz səksən doqquz
+990,doqquz yüz doxsan
+991,doqquz yüz doxsan bir
+992,doqquz yüz doxsan iki
+993,doqquz yüz doxsan üç
+994,doqquz yüz doxsan dörd
+995,doqquz yüz doxsan beş
+996,doqquz yüz doxsan altı
+997,doqquz yüz doxsan yeddi
+998,doqquz yüz doxsan səkkiz
+999,doqquz yüz doxsan doqquz

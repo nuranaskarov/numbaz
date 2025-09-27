@@ -1,0 +1,76 @@
+plugins {
+    id 'java-library'
+    id 'maven-publish'
+    id 'signing'
+}
+
+group = 'com.nuranaskarov'
+version = '0.1.0'
+
+java {
+    withSourcesJar()
+    withJavadocJar()
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testImplementation 'org.assertj:assertj-core:3.11.1'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            from components["java"]
+
+            pom {
+                name = 'Numbaz'
+                description = 'Java library for number to azerbaijani text conversion'
+                url = 'https://github.com/nuranaskarov/numbaz'
+
+                licenses {
+                    license {
+                        name = 'MIT License'
+                        url = 'https://opensource.org/licenses/MIT'
+                    }
+                }
+
+                developers {
+                    developer {
+                        name = 'Nuran Askarov'
+                        email = 'askar9v@gmail.com'
+                    }
+                }
+
+                scm {
+                    url = 'https://github.com/nuranaskarov/numbaz'
+                    connection = 'scm:git:git://github.com/nuranaskarov/numbaz.git'
+                    developerConnection = 'scm:git:ssh://git@github.com/nuranaskarov/numbaz.git'
+                }
+            }
+        }
+    }
+
+    repositories {
+        maven {
+            url = uri('https://ossrh-staging-api.central.sonatype.com/service/local/staging/deploy/maven2/')
+            credentials {
+                username = project.findProperty('ossrhUsername') ?: ""
+                password = project.findProperty('ossrhPassword') ?: ""
+            }
+        }
+    }
+}
+
+signing {
+    useGpgCmd()
+    sign publishing.publications["maven"]
+}
