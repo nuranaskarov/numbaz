@@ -33,14 +33,14 @@ Numbaz.parse("1".repeat(1000));
 
 Gradle
 ```java
-implementation 'com.nuranaskarov:numbaz:0.1.0'
+implementation 'com.nuranaskarov:numbaz:0.1.1'
 ```
 Maven
 ```xml
 <dependency>
     <groupId>com.nuranaskarov</groupId>
     <artifactId>numbaz</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
 </dependency>
 ```
 
