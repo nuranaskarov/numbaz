@@ -1,8 +1,6 @@
 # Numbaz
 
-Numbaz is a Java library that converts a numeric string 
-that represents a whole natural number 
-into their written Azerbaijani equivalents.
+Numbaz is a Java library that converts a numeric string that represents a whole natural number into its written Azerbaijani equivalent.
 
 No external dependencies.
 
